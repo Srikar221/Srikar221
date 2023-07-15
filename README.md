@@ -4,7 +4,6 @@
 <h3 align="center">UI/UX designer : crafting digital experiences that blend beauty and functionality</h3>
 
 
-<h1 align="center">Hi 👋, I'm Srikar</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=srikar221&label=Profile%20views&color=0e75b6&style=flat" alt="srikar221" /> </p>
