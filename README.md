@@ -1,4 +1,4 @@
-![MasterHead](https://github.com/Srikar221/Srikar221/main/download_1.png)
+![MasterHead](https://wallpaperaccess.com/cool-designs)
 
 <p align="center" color="#36BCF7FF"><img src="https://readme-typing-svg.herokuapp.com?font=Wallpoet&size=25&duration=3500&pause=1000&color=D782BA&width=435&lines=I'm+Sai+Srikar+Mandava;I'm+a+Web+Developer;I'm+a+Aspiring+UI/UX+Designer" /></p>
 <h3 align="center">Data Diver: Plunging into the Depths of Information</h3>
