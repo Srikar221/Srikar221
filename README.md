@@ -3,6 +3,8 @@
 <p align="center" color="#36BCF7FF"><img src="https://readme-typing-svg.herokuapp.com?font=Wallpoet&size=25&duration=3500&pause=1000&color=D782BA&width=435&lines=I'm+Sai+Srikar+Mandava;I'm+a+Web+Developer;I'm+a+Aspiring+UI/UX+Designer" /></p>
 <h3 align="center">UI/UX designer : crafting digital experiences that blend beauty and functionality</h3>
 
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
 
 <h3 align="center">A passionate frontend developer from India</h3>
 
