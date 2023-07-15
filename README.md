@@ -1,7 +1,7 @@
 ![MasterHead](https://github.com/Srikar221/Srikar221/blob/main/1829785.jpg)
 
 <p align="center" color="#36BCF7FF"><img src="https://readme-typing-svg.herokuapp.com?font=Wallpoet&size=25&duration=3500&pause=1000&color=D782BA&width=435&lines=I'm+Sai+Srikar+Mandava;I'm+a+Web+Developer;I'm+a+Aspiring+UI/UX+Designer" /></p>
-<h3 align="center">Data Diver: Plunging into the Depths of Information</h3>
+<h3 align="center">UI/UX designer : crafting digital experiences that blend beauty and functionality</h3>
 
 
 <h1 align="center">Hi 👋, I'm Srikar</h1>
