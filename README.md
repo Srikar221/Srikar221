@@ -17,6 +17,11 @@
 
 - Fun Fact: The Mischievous Anime Engineer! 🖥️🔥 Did you know? Our talented young developer, with a boundless love for anime and a knack for naughtily ingenious tech ideas, is the ultimate fusion of creativity and mischief!
 
+## 😂 Here is a random joke that'll make you laugh!
+![Jokes Card](https://readme-jokes.vercel.app/api)
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
 <h3 align="left">Connect with me:</h3>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
